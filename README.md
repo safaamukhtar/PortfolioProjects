@@ -1,5 +1,5 @@
 # PortofolioProjects
-## Welcome to my portfolio projects where I showcased different skillsin each one!
+## Welcome to my portfolio projects where I showcased different skills in each one!
 ### My Portfolio Prejects are:
 ## 1. [Nashville Housing Data: Data cleaning using SQL](https://github.com/safaamukhtar/PortfolioProjects/tree/DATA-CLEANING-IN-SQL)
 ### In This Project I Clean Housing Data in SQL Server Using Various Queries and Show skills in Seperating, Standardizing, and Choosing Useful Data for Further Analyzing and Usage
