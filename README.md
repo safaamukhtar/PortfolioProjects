@@ -14,10 +14,10 @@
    ### ![total cases vs total deaths 2](images/likelyhood3.PNG)
    ### -Compared the total cases vs population to show what percentage of the population got covid-19
    ### ![Global Numbers](images/globalnumbers.PNG)
-   ### ![globalnumbers 1](images/Sheet1.png)
+   ### ![globalnumbers 1](images/sheet1.png)
    ### -Explored the countries with highest infection rates compared to population and the highest death count per population
    ### ![alt text](images/sheet3.png)
-   ### ![infection rates](sheet4.png)
+   ### ![infection rates](images/sheet4.png)
    ### -Explored the numbers after breaking them by continent(e.g total death count by continent)
    ### ![Total death continent](images/continent.PNG)
    ### ![Total death continent](images/sheet2.png)
