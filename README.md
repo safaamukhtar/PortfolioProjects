@@ -9,10 +9,25 @@
 ## -Impoted the Data into SQL Server to Explore and Clean it futher and create views for visualization performing the following changes using Queries:
    ###            [Here is SQL Queries Code!](https://github.com/safaamukhtar/PortfolioProjects/blob/DATA-EXPLORATION-IN-SQL/COVID-19%20GLOBAL%20NUMBERS%20PROJECT%20.sql)
    ### -Compared the total cases vs total deaths to shows the likelihood of dying by covid in your country
+   ### ![total cases vs total deaths](images/likelyhood.JPG)
+   ### ![total cases vs total deaths 1](images/likelyhood2.PNG)
+   ### ![total cases vs total deaths 2](images/likelyhood3.PNG)
    ### -Compared the total cases vs population to show what percentage of the population got covid-19
-   ### -Explored the countries with highest infection rates compared to population and the highest death count per population 
+   ### ![Global Numbers](images/globalnumbers.PNG)
+   ### ![globalnumbers 1](images/sheet1.PNG)
+   ### -Explored the countries with highest infection rates compared to population and the highest death count per population
+   ### ![alt text](images/sheet3.PNG)
+   ### ![infection rates](sheet4.PNG)
    ### -Explored the numbers after breaking them by continent(e.g total death count by continent)
-   ### -Compared total population vs total vaccination using CTE and Joins
-   ### -created views to visualize in Tableau
+   ### ![Total death continent](images/continent.PNG)
+   ### ![Total death continent](images/sheet2.PNG)
+   ### -Compared total population vs total vaccination using **CTE**, **Subqueries** and **Joins**
+   ### ![total population vs total vaccination](images/totaltotal.JPG)
+   ### ![total population vs total vaccination 1](images/ctesubquery.JPG)
+   ### ![total population vs total vaccination 2](images/totaltotal2.PNG)
+   ### ![total population vs total vaccination 3](images/ctesubquery2.PNG)
+   ### ![population vaccinated](images/sheet6.PNG)
+   ### ![population vaccinated](images/sheet5.PNG)
+   ### -created views to visualize in Tableau (as shown above)
    ### [Covid-19 Dashboard](https://public.tableau.com/app/profile/safaa.mukhtar/viz/COVID-19_17089632880450/Dashboard1)
 
