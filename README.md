@@ -14,20 +14,20 @@
    ### ![total cases vs total deaths 2](images/likelyhood3.PNG)
    ### -Compared the total cases vs population to show what percentage of the population got covid-19
    ### ![Global Numbers](images/globalnumbers.PNG)
-   ### ![globalnumbers 1](images/sheet1.PNG)
+   ### ![globalnumbers 1](images/Sheet 1.png)
    ### -Explored the countries with highest infection rates compared to population and the highest death count per population
-   ### ![alt text](images/sheet3.PNG)
-   ### ![infection rates](sheet4.PNG)
+   ### ![alt text](images/sheet 3.png)
+   ### ![infection rates](sheet 4.png)
    ### -Explored the numbers after breaking them by continent(e.g total death count by continent)
    ### ![Total death continent](images/continent.PNG)
-   ### ![Total death continent](images/sheet2.PNG)
+   ### ![Total death continent](images/sheet 2.png)
    ### -Compared total population vs total vaccination using **CTE**, **Subqueries** and **Joins**
    ### ![total population vs total vaccination](images/totaltotal.JPG)
-   ### ![total population vs total vaccination 1](images/ctesubquery.JPG)
    ### ![total population vs total vaccination 2](images/totaltotal2.PNG)
+   ### ![total population vs total vaccination 1](images/ctesubquery.JPG)
    ### ![total population vs total vaccination 3](images/ctesubquery2.PNG)
-   ### ![population vaccinated](images/sheet6.PNG)
-   ### ![population vaccinated](images/sheet5.PNG)
+   ### ![population vaccinated](images/sheet 6.png)
+   ### ![population vaccinated](images/sheet 5.png)
    ### -created views to visualize in Tableau (as shown above)
    ### [Covid-19 Dashboard](https://public.tableau.com/app/profile/safaa.mukhtar/viz/COVID-19_17089632880450/Dashboard1)
 
