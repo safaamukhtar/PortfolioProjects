@@ -1,7 +1,7 @@
 # PortofolioProjects
-## Welcome to my portfolio projects where I showcased different skills in each one!
-### My Portfolio Prejects are:
-## . [Bellabeat Case Study: Complete Analysis using SQL, R and Tableau](https://github.com/safaamukhtar/PortfolioProjects/tree/Bellabeat-Case-Study)
+## Welcome to my portfolio projects where I showcase different skills in each one!
+### My Portfolio Projects are:
+## 1. [Bellabeat Case Study: Complete Analysis using SQL, R and Tableau](https://github.com/safaamukhtar/PortfolioProjects/tree/Bellabeat-Case-Study)
 ### In This Project I Perform Analysis on the Data in SQL Server, Rsudio and Tableau Public using the Google data analytics' 6 steps data Analysis process
 ## 2. [Nashville Housing Data: Data cleaning using SQL](https://github.com/safaamukhtar/PortfolioProjects/tree/DATA-CLEANING-IN-SQL)
 ### In This Project I Clean Housing Data in SQL Server Using Various Queries and Show skills in Seperating, Standardizing, and Choosing Useful Data for Further Analyzing and Usage
