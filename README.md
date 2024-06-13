@@ -417,42 +417,42 @@ ggplot(data = view3_df, aes(x = step, y = cal)) +
   geom_jitter(color = "red" )+
   geom_smooth(color="green")
 ```
-### vis1
+![vis1](vis1.png)
 
 ```{r}
 ggplot(data= view1_df, aes(x= week_day,y=steps))+
   geom_col(fill="cadetblue")
 ```
 
-### vis2
+![vis2](vis2.png)
 
 ```{r}
 ggplot(data= view2_df, aes(x= day_part,y=avg_step))+
   geom_col(fill="cadetblue")
 ```
 
-### vis3
+![vis3](vis3.png)
 
 ```{r}
 ggplot(data= view2_df, aes(x= hour,y=avg_step))+
   geom_col(fill="cadetblue")
 ```
 
-### vis4
+![vis4](vis4.png)
 
 ```{r}
 ggplot(data= view2_df, aes(x= day_part,y=avg_cal))+
   geom_col(fill="cadetblue")
 ```
 
-### vis5
+![vis5](vis5.png)
 
 ```{r}
 ggplot(data= view2_df, aes(x= hour,y=avg_cal))+
   geom_col(fill="cadetblue")
 ```
 
-### vis6
+![vis6](vis6.png)
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 ggplot(data = view1_df, aes(x = SedentaryMinutes, y =SleepMinutes)) +
@@ -460,17 +460,17 @@ ggplot(data = view1_df, aes(x = SedentaryMinutes, y =SleepMinutes)) +
   geom_smooth(color="green")
 ```
 
-### vis7
+![vis7](vis7.png)
 
 ### More Visualization in Tableau
 
-![pic1](C:/Users/Administrator/Documents/safaa/Bellabit/sheet1.png)
+![pic1](Sheet1.png)
 
-![pic2](C:/Users/Administrator/Documents/safaa/Bellabit/sheet4.png)
+![pic2](sheet4.png)
 
-![pic3](C:/Users/Administrator/Documents/safaa/Bellabit/sheet3.png)
+![pic3](sheet3.png)
 
-![pic4](C:/Users/Administrator/Documents/safaa/Bellabit/sheet2.png)
+![pic4](sheet2.png)
 
 [Tableau Dashboard](https://public.tableau.com/views/BellabeatDashboard_17182766470810/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
