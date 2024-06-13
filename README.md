@@ -417,3 +417,114 @@ ggplot(data = view3_df, aes(x = step, y = cal)) +
   geom_jitter(color = "red" )+
   geom_smooth(color="green")
 ```
+### vis1
+
+```{r}
+ggplot(data= view1_df, aes(x= week_day,y=steps))+
+  geom_col(fill="cadetblue")
+```
+
+### vis2
+
+```{r}
+ggplot(data= view2_df, aes(x= day_part,y=avg_step))+
+  geom_col(fill="cadetblue")
+```
+
+### vis3
+
+```{r}
+ggplot(data= view2_df, aes(x= hour,y=avg_step))+
+  geom_col(fill="cadetblue")
+```
+
+### vis4
+
+```{r}
+ggplot(data= view2_df, aes(x= day_part,y=avg_cal))+
+  geom_col(fill="cadetblue")
+```
+
+### vis5
+
+```{r}
+ggplot(data= view2_df, aes(x= hour,y=avg_cal))+
+  geom_col(fill="cadetblue")
+```
+
+### vis6
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+ggplot(data = view1_df, aes(x = SedentaryMinutes, y =SleepMinutes)) +
+  geom_point(color = "red" )+
+  geom_smooth(color="green")
+```
+
+### vis7
+
+### More Visualization in Tableau
+
+![pic1](C:/Users/Administrator/Documents/safaa/Bellabit/sheet1.png)
+
+![pic2](C:/Users/Administrator/Documents/safaa/Bellabit/sheet4.png)
+
+![pic3](C:/Users/Administrator/Documents/safaa/Bellabit/sheet3.png)
+
+![pic4](C:/Users/Administrator/Documents/safaa/Bellabit/sheet2.png)
+
+[Tableau Dashboard](https://public.tableau.com/views/BellabeatDashboard_17182766470810/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+
+
+## Analysis Summary:
+
+### -Average Steps a day are 7280
+
+### -Average Sedentary Hours a day are 16.5 Hours
+
+### -Average Sleep Hours a Day are 6.5 hours
+
+### -Users are more active in the middle of the week 
+
+### -The Average Calories consumed a day is 2300 Calories
+
+### -corelation between the number of steps and Calories recorded
+
+### -Steps count is Higher on week days than on weekend
+
+### -Steps counts is Higher in the afternoon and evening than the morning and the night
+
+### -Calories count is relatively lower from 12-5 AM
+
+### -intense activity minutes count is really low for all users
+
+### -activities type is never recorded
+
+### -no relation between Sedentary Hours and Sleep Hours
+
+
+
+## Act
+
+#### Insight and Conclusions gathered from analysis:
+### -The data indicates that the smart device is good at collecting data but not at suggesting wellbeing tips for the users so marketing our product as a device to improve your wellbeing rather than just recording acurate data.
+
+### -The sleeping Hours recorded for all users is below average so an alarm to notify about  time for sleep is a good idea.
+
+### -The suggested steps count a day is 10000 so motiviting users to walk more by making a contribution board for example.
+
+### -The minutes count for Activity intensity (very, fairly, light) doesn't specify the type of activity so personalizing according to the users routine and activities will help the users know if they are working out enough
+
+### -Calories intake is the highest in the morning and the afternoon (Breakfast and Lunch) so helping users track  their sugar levels too might help users with chronic illnesses and diets  
+### -online way to Calculate weight instead of manually recording it is needed
+
+
+
+
+
+
+
+
+
+
+
