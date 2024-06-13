@@ -370,7 +370,7 @@ from minute_data
 
 
 
-## Visualize the Data
+## Share
 
 ```{r message=FALSE, warning=FALSE, include=FALSE}
 library(tidyr)
@@ -468,9 +468,9 @@ ggplot(data = view1_df, aes(x = SedentaryMinutes, y =SleepMinutes)) +
 
 ![pic2](sheet4.png)
 
-![pic3](sheet3.png)
+![pic3](Sheet3.png)
 
-![pic4](sheet2.png)
+![pic4](Sheet2.png)
 
 [Tableau Dashboard](https://public.tableau.com/views/BellabeatDashboard_17182766470810/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
